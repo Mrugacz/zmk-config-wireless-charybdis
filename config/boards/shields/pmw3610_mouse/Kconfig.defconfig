@@ -1,0 +1,15 @@
+if SHIELD_PMW3610_MOUSE
+
+config ZMK_KEYBOARD_NAME
+    default "PMW3610Mouse"
+
+config ZMK_POINTING
+    default y
+
+config INPUT
+    default y
+
+config SPI
+    default y
+
+endif

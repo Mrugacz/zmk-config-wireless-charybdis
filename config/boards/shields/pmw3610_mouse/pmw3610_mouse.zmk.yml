@@ -1,0 +1,8 @@
+file_format: "1"
+id: pmw3610_mouse
+name: PMW3610 Mouse
+type: shield
+features:
+  - pointer
+requires:
+  - pro_micro
