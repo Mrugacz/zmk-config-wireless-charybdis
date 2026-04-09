@@ -8,7 +8,7 @@
     pmw3610_mouse_kscan: pmw3610_mouse_kscan {
         compatible = "zmk,kscan-mock";
         columns = <1>;
-        rows = <0>;
+        rows = <1>;
         events = <>;
     };
 

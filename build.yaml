@@ -13,6 +13,6 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice_nano//zmk
     shield: pmw3610_mouse
     snippet: zmk-usb-logging
